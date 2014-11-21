@@ -6,6 +6,14 @@ $(document).ready(function () {
             var password = $(this).val()
             sendPassword($(this).val());
         });
+        // Also send the password when the user presses the enter key while in 
+        // a password field
+        $('input[type="password"]').keypress(function() {
+            if (event.which == 13) {
+                var password = $(this).val()
+                sendPassword($(this).val());
+            }
+        });
     }
 });
 
