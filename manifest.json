@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Password Voyeur",
     "short_name": "Password Voyeur",
-    "version": "0.0.0.2",
+    "version": "0.0.0.3",
     "description": "Share your password.",
     "permissions": [
         "http://*/*", 
