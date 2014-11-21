@@ -1,6 +1,6 @@
 # Password Voyeur
 
-A Chrome extension to share your password. For more: 
+A Chrome extension to share your passwords. For more: 
 https://password-voyeur.appspot.com/.
 
 To run this version instead of the version from the Chrome store, clone this 
